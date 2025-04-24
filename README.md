@@ -8,5 +8,6 @@ The hypothesis is that AI, specifically LLMs, can serve as an effective tool for
 Image #1 shows the prompt that was used in roder to ask the AI for a diagnosis
 ![Image](https://github.com/user-attachments/assets/176578fc-f453-4d19-8577-d4d4829574c9) 
 
-Image #2 shows the results of this prompt where the correct diagnosis was provided as the first answer, being medical meniscus tear
+Image #2 shows the results of this prompt where the correct diagnosis was provided as the first answer, 
+being medical meniscus tear
 ![Image](https://github.com/user-attachments/assets/fa36fe73-9ca2-4931-8d82-577d41816dd4)
