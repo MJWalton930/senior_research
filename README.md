@@ -36,3 +36,22 @@ ChatGPT:
 ![Image](https://github.com/user-attachments/assets/33c33d00-fe25-436d-89e6-d4a72e17ac3e)
 Gemini:
 ![Image](https://github.com/user-attachments/assets/8e9c4ddd-33a8-48c7-ab1d-007bbcedc5ce)
+
+Case #5 prompt
+![Image](https://github.com/user-attachments/assets/5d641db6-f885-4e6f-a5e8-b3c0c361b787)
+
+Case #5 results from both ChatGPT and Gemini
+ChatGPT:
+![Image](https://github.com/user-attachments/assets/944bca38-5ac4-4ab5-9fef-4feadb30c27a)
+Gemini:
+![Image](https://github.com/user-attachments/assets/23f52e67-88c8-4731-a934-7cbda9b56e79)
+
+Case #6 prompt
+![Image](https://github.com/user-attachments/assets/161a9851-6fce-4db9-a1d4-47134e4b8c18)
+
+Case #6 results from both ChatGPT and Gemini
+ChatGPT:
+![Image](https://github.com/user-attachments/assets/8349562d-8464-4f41-b467-fca1991a4519)
+Gemini:
+![Image](https://github.com/user-attachments/assets/63c1224f-0ef6-4c71-8969-52f1d2375284)
+
