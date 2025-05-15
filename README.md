@@ -1,8 +1,11 @@
 # Matt Walton, Senior Research
 ## Analyzing and Comparing the Effectiveness of Artificial Intelligence in Sports Injury Diagnosis
 
-Image #1 shows the prompt that was used in roder to ask the AI for a diagnosis
-![Image](https://github.com/user-attachments/assets/176578fc-f453-4d19-8577-d4d4829574c9) 
+Case #1 prompt
+![Image](https://github.com/user-attachments/assets/2d765324-70e1-43af-89fa-e4d73f3165d4)
 
-Image #2 shows the results of this prompt where the correct diagnosis was provided as the first answer
-![Image](https://github.com/user-attachments/assets/fa36fe73-9ca2-4931-8d82-577d41816dd4)
+Case #1 results from both ChatGPT and Gemini
+ChatGPT:
+![Image](https://github.com/user-attachments/assets/39132b5d-4603-46aa-a202-db16395c60dd)
+Gemini:
+![Image](https://github.com/user-attachments/assets/7b4a990f-b23b-4534-bd09-5ca52f061571)
